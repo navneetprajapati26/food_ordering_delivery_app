@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:food_ordering_delivery_app/pages/firstPage.dart';
+import 'package:food_ordering_delivery_app/pages/thirdPage.dart';
 
 void main() {
   runApp(const MyApp());
